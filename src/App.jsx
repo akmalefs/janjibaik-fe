@@ -108,7 +108,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <Button>Pelajari lebih lanjut</Button>
+            <Button variant="w-[510px]">Pelajari lebih lanjut</Button>
           </div>
 
           <img src="./logo.png" alt="" />
