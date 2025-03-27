@@ -4,7 +4,7 @@ const Button = ({ children, variant }) => {
       href=""
       className={`text-white text-center bg-[#EC901D] py-3.5 px-14 rounded-full ${variant}`}
     >
-      {children}
+      {children} 
     </a>
   );
 };

@@ -91,7 +91,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <Button>Donasi Sekarang</Button>
+          <Button variant="w-[220px]">Daftar Sekarang</Button>
         </div>
       </div>
     </div>
