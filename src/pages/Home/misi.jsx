@@ -2,7 +2,7 @@ import Button from "../../components/Button";
 
 const Misi = () => {
   return (
-    <div className="max-w-7xl mx-auto mt-36">
+    <div className="max-w-7xl mx-auto mt-[550px]">
       <div className="flex justify-between items-center">
         <div className="flex flex-col gap-y-8">
           <header className="flex flex-col gap-y-2">

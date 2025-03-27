@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="relative">
       <img src="./background.png" alt="" />
-      <div className="absolute inset-0 flex flex-col gap-y-8 justify-center items-center">
+      <div className="absolute inset-0 flex mt-24 flex-col gap-y-8 justify-center items-center">
         <h1 className="font-bold text-5xl w-7/12 text-center leading-tight tracking-[-0.7px] text-white">
           Sekolah Inovatif Untuk Masa Depan Tanpa Hambatan
         </h1>

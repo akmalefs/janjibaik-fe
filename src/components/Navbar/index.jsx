@@ -77,7 +77,7 @@ const Navbar = () => {
                 <summary className="text-lg text-black">Donasi+</summary>
                 <ul className="p-2">
                   <li>
-                    <a className="text-lg text-black">Submenu 1</a>
+                    <a className="text-lg text-black">shisjsjsjisjis</a>
                   </li>
                   <li>
                     <a className="text-lg text-black">Submenu 2</a>
